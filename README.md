@@ -63,6 +63,6 @@ Currently: Starting the journey 🚀
 
 ---
 
-#Topic Notes
+# Topic Notes
 
-- [ Network Devices ](Notes/Network Devices.md)
+- [Network Devices](Notes/Network Devices.md)
