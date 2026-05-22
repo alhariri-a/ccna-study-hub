@@ -59,3 +59,10 @@ If you notice something wrong or have a better way to do something, feel free to
 # 📌 Status
 
 Currently: Starting the journey 🚀
+
+
+---
+
+#Topic Notes
+
+- [ Network Devices ](Notes/Network Devices.md)
