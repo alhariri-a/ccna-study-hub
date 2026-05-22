@@ -1,6 +1,6 @@
 # Network Devices Notes
 
-## What is a network device?
+### What is a network device?
 A network device is hardware used to connect devices together and allow communication between them.
 
 ### Router
