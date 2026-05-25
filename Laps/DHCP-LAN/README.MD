@@ -33,7 +33,7 @@ All devices are connected inside a single LAN and receive IP addresses automatic
 # Features
 
 * Automatic IP assignment using DHCP
-* PC-to-PC communication testing (Showing the pic daown)
+* PC-to-PC communication testing (Showing the pic down)
 * Multi-switch LAN topology
 * Centralized DHCP server
 * Structured switch design
