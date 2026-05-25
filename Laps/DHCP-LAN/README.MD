@@ -59,6 +59,11 @@ This project was created for networking practice to understand:
 * Hierarchical LAN design
 
 
+---
+
+# Screenshot
+
+A ping test was performed from PC8 to PC1 , and the connection was successful .
 
 ![LAP Screenshot](/Laps/DHCP-LAN/Lap1.png)
 
