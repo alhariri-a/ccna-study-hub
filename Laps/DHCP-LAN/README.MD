@@ -60,5 +60,5 @@ This project was created for networking practice to understand:
 
 
 
-![LAP](Laps/DHCP LAN/lap1.png)
+![LAP](Laps/DHCP-LAN/lap1.png)
 
