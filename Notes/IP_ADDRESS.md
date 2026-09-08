@@ -1,4 +1,4 @@
-IP ADDRESS
+## IP ADDRESS
 
 At first every device in the network must have:
 
@@ -7,7 +7,7 @@ At first every device in the network must have:
 
 ⸻
 
-IANA
+### IANA
 
 IANA - Internet Assigned Numbers Authority
 
@@ -15,18 +15,18 @@ it’s the IPaddress boss
 
 ⸻
 
-IP Address Classes
+### IP ADDRESS CLASSES
 
-CLASS	IP Address	Subnet Mask
+CLASS	IP ADDRESS	SUBNET MASK
 CLASS A	001-126.***.***.***	255.000.000.000
 CLASS B	128-191.***.***.***	255.255.000.000
 CLASS C	192-223.***.***.***	255.255.255.000
-CLASS D	224-255.***,***,***	“for multi cast”
-CLASS E		“for researches”
+CLASS D	224-255.***.***.***	For multi cast
+CLASS E	—	For researches
 
 ⸻
 
-Loop Back IP
+### LOOP BACK IP
 
 [ 127.0.0.1 ]
 
@@ -34,31 +34,31 @@ loop back ip - used to check tcp
 
 ⸻
 
-Subnet
+### SUBNET
 
 if u see subnet . know that every 255 is static in the network
 
 255.255.255 .0
-|networkid| |host|
+|networkid|  |host|
 
 ⸻
 
-Private IP Range
+### PRIVATE IP RANGE
 
-CLASS A
+#### CLASS A
 
 010.000.000.000 - 10.255.255.255
 
-CLASS B
+#### CLASS B
 
 172.016.000.000 - 172.031.255.255
 
-CLASS C
+#### CLASS C
 
 192.168.000.000 - 192.168.255.255
 
 ⸻
 
-ARP Protocol
+### ARP PROTOCOL
 
 it is switch protocol , the device make ARP request using broadcast with distention ip asking for Distention MAC address
