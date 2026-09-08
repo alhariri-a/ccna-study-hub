@@ -10,8 +10,10 @@
  
  1- the straight 
  usually this is the man 
+
  2- cross over 
  you want it with similar device , like switch with another switch  
+
  3- roll over 
  used in the configuration  
  
