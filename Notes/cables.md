@@ -1,9 +1,9 @@
  MAC Address taple : it's by the switch to save the MAC addresses to avoid ARP 
  
  
- cables types 
+ ### cables types 
  
- * twisted pair 
+ #### twisted pair 
  normal cable with the red green and yallow 
  
  it's have tow types 
@@ -18,11 +18,11 @@
  " you need example "
  
  
- * coaxil 
+ #### coaxil 
  
 like the reserver cable 
 
- * fiber 
+ #### fiber 
  hard to make and expansive 
  
  
